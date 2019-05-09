@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://neeyiepaki.cross-platform-blog.com/sitemap.xml
